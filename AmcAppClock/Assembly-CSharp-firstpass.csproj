@@ -249,28 +249,28 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.15f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="DDebug">
-      <HintPath>D:/UnityProject/AmcAppClock/Assets/Doozy/Engine/Debug/DDebug.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Assets/Doozy/Engine/Debug/DDebug.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>D:/UnityProject/AmcAppClock/Assets/Plugins/Newtonsoft.Json.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Assets/Plugins/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System.ServiceModel">
-      <HintPath>D:/UnityProject/AmcAppClock/Assets/Plugins/System.ServiceModel.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Assets/Plugins/System.ServiceModel.dll</HintPath>
     </Reference>
     <Reference Include="System.ServiceModel.Web">
-      <HintPath>D:/UnityProject/AmcAppClock/Assets/Plugins/System.ServiceModel.Web.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Assets/Plugins/System.ServiceModel.Web.dll</HintPath>
     </Reference>
     <Reference Include="System.Text.RegularExpressions">
-      <HintPath>D:/UnityProject/AmcAppClock/Assets/Plugins/System.Text.RegularExpressions.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Assets/Plugins/System.Text.RegularExpressions.dll</HintPath>
     </Reference>
     <Reference Include="System.Web">
-      <HintPath>D:/UnityProject/AmcAppClock/Assets/Plugins/System.Web.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Assets/Plugins/System.Web.dll</HintPath>
     </Reference>
     <Reference Include="System.Web.Services">
-      <HintPath>D:/UnityProject/AmcAppClock/Assets/Plugins/System.Web.Services.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Assets/Plugins/System.Web.Services.dll</HintPath>
     </Reference>
     <Reference Include="DOTween">
-      <HintPath>D:/UnityProject/AmcAppClock/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.15f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -627,34 +627,34 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.15f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/UnityProject/AmcAppClock/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/UnityProject/AmcAppClock/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/UnityProject/AmcAppClock/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/UnityProject/AmcAppClock/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/UnityProject/AmcAppClock/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/UnityProject/AmcAppClock/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/UnityProject/AmcAppClock/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/UnityProject/AmcAppClock/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/UnityProject/AmcAppClock/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/UnityProject/AmcAppClock/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/UnityProject/APP/AmcAppClock/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>

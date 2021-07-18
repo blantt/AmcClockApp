@@ -1,0 +1,9 @@
+//fsn
+#classess
+boy2
+Archer
+Lancer
+Caster
+Rider
+Berserker
+Assassin
